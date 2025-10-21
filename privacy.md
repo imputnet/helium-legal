@@ -1,6 +1,6 @@
 ## Privacy policy
 
-Revision from October 14, 2025.
+Revision from October 21, 2025.
 
 [See full edit history on GitHub.](https://github.com/imputnet/helium-legal/commits/main/privacy.md)
 
@@ -96,12 +96,12 @@ secure. Accordingly, we cannot guarantee absolute security.
 - **GitHub**: Used for storing and collaborating around Helium sources, and used as the source of
   truth for Helium releases. Use of GitHub is subject to the
   [GitHub General Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
-- **Stripe**: Used for processing donations, accessible via an external link on the
-  [donation page](https://helium.computer/donate). Use of Stripe is subject to their
+- **Stripe**: Used for processing tips, accessible via an external link on the
+  [sponsor page](https://helium.computer/sponsor). Use of Stripe is subject to their
   [Privacy Policy](https://stripe.com/privacy) and
   [Data Processing Agreement](https://stripe.com/legal/dpa).
-- **Liberapay**: Used for processing donations, accessible via an external link on the
-  [donation page](https://helium.computer/donate). Use of Liberapay is subject to their
+- **Liberapay**: Used for processing tips, accessible via an external link on the
+  [sponsor page](https://helium.computer/sponsor). Use of Liberapay is subject to their
   [Privacy Policy](https://liberapay.com/about/privacy).
 
 If we engage additional providers that users may come into contact with, we will update this section
