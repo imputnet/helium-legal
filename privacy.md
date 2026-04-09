@@ -1,4 +1,4 @@
-## Privacy policy
+## Privacy Policy
 
 Revision from October 21, 2025. <br>
 [See full edit history on GitHub.](https://github.com/imputnet/helium-legal/commits/main/privacy.md)
@@ -19,7 +19,7 @@ Revision from October 21, 2025. <br>
   [helium-services](https://github.com/imputnet/helium-services) repository.
 - **Website**: The website (helium.computer) where this privacy policy is displayed.
 
-### Privacy policy
+### Browser Privacy Policy
 
 Helium does not make any network requests, including to the Services, unless such requests are the
 result of user actions (for example, visiting a website or installing an extension) or are part of
@@ -36,6 +36,8 @@ technical information (e.g., anonymized server logs) may be retained for no long
 detect and prevent abuse or to improve the Services. We do not share this information with third
 parties under any circumstances.
 
+### Website Privacy Policy
+
 We use Cloudflare for content delivery and protection of our Website. For more information about
 Cloudflare, refer to the [Third-party providers](#third-party-providers) section.
 
@@ -44,11 +46,13 @@ Company. We use Plausible to collect anonymized traffic analytics. Our Plausible
 store any identifying information about you. You can read more about Plausible
 [on their website](https://plausible.io/privacy-focused-web-analytics).
 
+### Exceptions
+
 This privacy policy does not apply to third-party or unofficial builds of Helium or derivatives,
 instances of the Services not operated by the Company, or non-production deployments of Services
 used by Maintainers to develop and improve the Services.
 
-### Miscellaneous legal disclaimers
+### Miscellaneous Legal Disclaimers
 
 This Privacy Policy is governed by the laws of the State of Wyoming, United States, without regard
 to conflict of law principles. By using Helium or the Services, you consent to the processing of
@@ -72,7 +76,7 @@ the Services, Helium uses the TLS 1.3 protocol. While we take reasonable measure
 Services and associated infrastructure, no method of electronic transmission or storage is 100%
 secure. Accordingly, we cannot guarantee absolute security.
 
-### Third-party providers
+### Third-party Providers
 
 - **Cloudflare**: Used for the Website and for content delivery of software updates
   (updates.helium.computer). Cloudflare does not process data from the Services. Use of Cloudflare
@@ -92,6 +96,6 @@ secure. Accordingly, we cannot guarantee absolute security.
 If we engage additional providers that users may come into contact with, we will update this section
 accordingly.
 
-### Contact information
+### Contact Information
 
 For privacy-related inquiries, you may contact us at privacy[@]imput.net.
