@@ -1,7 +1,6 @@
 ## Privacy policy
 
-Revision from October 21, 2025.
-
+Revision from October 21, 2025. <br>
 [See full edit history on GitHub.](https://github.com/imputnet/helium-legal/commits/main/privacy.md)
 
 ### Definitions
@@ -28,32 +27,22 @@ features that the user has explicitly enabled or configured during setup. If Hel
 network requests without your consent, please
 [file a bug report](https://github.com/imputnet/helium/issues).
 
-<br>
-
 All browsing data managed by Helium is stored locally on your device. You have full control over it
 and can delete or modify it at any time. Neither the Company nor the Maintainers have access to this
 data.
-
-<br>
 
 Services do not collect, store, or share any personal information. Certain non-identifiable
 technical information (e.g., anonymized server logs) may be retained for no longer than 24 hours to
 detect and prevent abuse or to improve the Services. We do not share this information with third
 parties under any circumstances.
 
-<br>
-
 We use Cloudflare for content delivery and protection of our Website. For more information about
 Cloudflare, refer to the [Third-party providers](#third-party-providers) section.
-
-<br>
 
 Our Website may load a Plausible Analytics script hosted on a server owned and managed by the
 Company. We use Plausible to collect anonymized traffic analytics. Our Plausible instance does not
 store any identifying information about you. You can read more about Plausible
 [on their website](https://plausible.io/privacy-focused-web-analytics).
-
-<br>
 
 This privacy policy does not apply to third-party or unofficial builds of Helium or derivatives,
 instances of the Services not operated by the Company, or non-production deployments of Services
@@ -69,12 +58,8 @@ personal information, rights under GDPR, CCPA, and similar laws may not be appli
 you believe we hold any personal data about you, you may contact us to request access, correction,
 or deletion. We will respond as required under applicable law.
 
-<br>
-
 Helium and the Services are not directed at children under 13 (or the minimum age in your
 jurisdiction). We do not knowingly collect personal information from children.
-
-<br>
 
 We reserve the right to update this Privacy Policy from time to time. Significant changes will be
 announced on our website, GitHub, or social media channels. Continued use of Helium or the Services

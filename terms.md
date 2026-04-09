@@ -1,7 +1,6 @@
 ## Terms of Use
 
-Revision from October 21, 2025.
-
+Revision from October 21, 2025. <br>
 [See full edit history on GitHub.](https://github.com/imputnet/helium-legal/commits/main/terms.md)
 
 ### Definitions
@@ -55,18 +54,18 @@ advised of the possibility of these damages.
 By making a financial contribution ("tip") to support the development or maintenance of the
 Software, you acknowledge and agree that:
 
-1. All tips are made voluntarily and without expectation of any goods, services, or other
-   benefits in return. Tips do not constitute a purchase, investment, or any form of
-   consideration for current or future services.
+1. All tips are made voluntarily and without expectation of any goods, services, or other benefits
+   in return. Tips do not constitute a purchase, investment, or any form of consideration for
+   current or future services.
 
 2. All tips are final and non-refundable, regardless of whether the Software's development
    continues, is modified, suspended, or discontinued.
 
-3. A tip does not grant you any ownership, intellectual property rights, or other legal
-   interests in the Software, its source code, or related projects.
+3. A tip does not grant you any ownership, intellectual property rights, or other legal interests in
+   the Software, its source code, or related projects.
 
-4. Tips may be used at the sole discretion of the Company to support the development,
-   maintenance, or related operational costs of the Software.
+4. Tips may be used at the sole discretion of the Company to support the development, maintenance,
+   or related operational costs of the Software.
 
 5. Maintainers and/or the Company are under no obligation to act upon suggestions, requests, or
    expectations made by donors, unless explicitly agreed upon in writing.
