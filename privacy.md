@@ -36,15 +36,18 @@ technical information (e.g., anonymized server logs) may be retained for no long
 detect and prevent abuse or to improve the Services. We do not share this information with third
 parties under any circumstances.
 
-### Website Privacy Policy
-
-We use Cloudflare for content delivery and protection of our Website. For more information about
+We use Cloudflare for cached delivery of browser updates. For more information about
 Cloudflare, refer to the [Third-party providers](#third-party-providers) section.
+
+### Website Privacy Policy
 
 Our Website may load a Plausible Analytics script hosted on a server owned and managed by the
 Company. We use Plausible to collect anonymized traffic analytics. Our Plausible instance does not
 store any identifying information about you. You can read more about Plausible
 [on their website](https://plausible.io/privacy-focused-web-analytics).
+
+We use Cloudflare for content delivery and protection of our Website. For more information about
+Cloudflare, refer to the [Third-party providers](#third-party-providers) section.
 
 ### Exceptions
 
