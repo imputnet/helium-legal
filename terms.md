@@ -1,6 +1,6 @@
 ## Terms of Use
 
-Revision from October 21, 2025. <br>
+Revision from July 8, 2026. <br>
 [See full edit history on GitHub.](https://github.com/imputnet/helium-legal/commits/main/terms.md)
 
 ### Definitions
