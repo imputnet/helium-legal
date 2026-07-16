@@ -31,27 +31,34 @@ All browsing data managed by Helium is stored locally on your device. You have f
 and can delete or modify it at any time. Neither the Company nor the Maintainers have access to this
 data.
 
-Services do not collect, store, or share any personal information, unless explicitly authorized by the user (e.g. by submitting crash reports). Services may retain certain non-identifiable technical information (e.g., anonymized traffic logs) for
-no longer than 24 hours to detect and prevent abuse or to improve the Services. We do not share
-this information with third parties under any circumstances.
+Services do not collect, store, or share any personal information, unless explicitly authorized by
+the user (e.g., by submitting crash reports). Services may retain certain non-identifiable technical
+information (e.g., anonymized traffic logs) for no longer than 24 hours to detect and prevent abuse
+or to improve the Services. We do not share this information with third parties under any
+circumstances.
 
-We use Cloudflare for cached delivery of browser updates. For more information about
-Cloudflare, refer to the [Third-party providers](#third-party-providers) section.
+We use Cloudflare for cached delivery of browser updates. For more information about Cloudflare,
+refer to the [Third-party providers](#third-party-providers) section.
 
-### Crash Reporting
+### Browser Crash Reporting
 
-Helium may submit crash reports to a crash reporting service hosted by the Company if the user
-consents to the reports being submitted. Crash reports contain technical information about the
-crashed process and your system, including the Helium version, operating system, architecture,
-crash annotations, and stack or memory data captured by Crashpad. Because crash reports may
-contain fragments of process memory, they may unintentionally contain personal or otherwise
-sensitive data.
+If the user explicitly consents to crash reporting, Helium may submit crash reports to a crash
+reporting service hosted by the Company.
 
-Crash reports are used only to diagnose and group Helium crashes. Raw reports and derived metadata
-are kept for up to 30 days, after which they are deleted. Client IP addresses are used in memory
-for rate limiting and are not stored by the crash reporting service. Temporary service logs contain report
-identifiers and technical build or processing information, but do not contain crash dumps or arbitrary
-crash annotations. We do not share raw crash reports with third parties under any circumstances.
+Crash reports contain technical information about the crashed process and the user's system. This
+includes the Helium version, OS name, OS version, OS architecture, crash annotations, and stack or
+memory data captured by [Crashpad](https://crashpad.chromium.org/). Since raw crash reports contain
+fragments of process memory, they may also unintentionally contain personal or otherwise sensitive
+data.
+
+Raw reports and derived metadata are stored for up to 30 days, after which they are automatically
+deleted. Client IP addresses are temporarily used in memory for rate limiting, and are not stored by
+the crash reporting service. Temporary service logs contain report identifiers and technical build
+or processing information, but do not contain crash dumps or arbitrary crash annotations.
+
+Crash reports are used only to diagnose and fix Helium crashes. We do not share raw crash reports
+with third parties under any circumstances. We may reference derived stack traces publicly, such as
+on GitHub, but they do not contain any personal or otherwise sensitive data.
 
 ### Website Privacy Policy
 
