@@ -31,10 +31,9 @@ All browsing data managed by Helium is stored locally on your device. You have f
 and can delete or modify it at any time. Neither the Company nor the Maintainers have access to this
 data.
 
-Services do not collect, store, or share any personal information. Certain non-identifiable
-technical information (e.g., anonymized server logs) may be retained for no longer than 24 hours to
-detect and prevent abuse or to improve the Services. We do not share this information with third
-parties under any circumstances.
+Certain non-identifiable technical information (e.g., anonymized server logs) may be retained for
+no longer than 24 hours to detect and prevent abuse or to improve the Services. We do not share
+this information with third parties under any circumstances.
 
 We use Cloudflare for cached delivery of browser updates. For more information about
 Cloudflare, refer to the [Third-party providers](#third-party-providers) section.
@@ -49,7 +48,7 @@ contain fragments of process memory, they may unintentionally contain personal o
 sensitive data.
 
 Crash reports are used only to diagnose and group Helium crashes. Raw reports and derived metadata
-is kept for 30 days by default, after which they are deleted. Client IP addresses are used in memory
+are kept for up to 30 days, after which they are deleted. Client IP addresses are used in memory
 for rate limiting and are not stored by the crash reporting service. Service logs contain report
 identifiers and technical build or processing information, but do not contain crash dumps or arbitrary
 crash annotations. We do not share raw crash reports with third parties under any circumstances.
