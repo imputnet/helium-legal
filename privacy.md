@@ -39,6 +39,21 @@ parties under any circumstances.
 We use Cloudflare for cached delivery of browser updates. For more information about
 Cloudflare, refer to the [Third-party providers](#third-party-providers) section.
 
+### Crash Reporting
+
+Helium may submit crash reports to a crash reporting service hosted by the Company if the user
+consents to the reports being submitted. Crash reports contain technical information about the
+crashed process and your system, including the Helium version, operating system, architecture,
+crash annotations, and stack or memory data captured by Crashpad. Because crash reports may
+contain fragments of process memory, they may unintentionally contain personal or otherwise
+sensitive data.
+
+Crash reports are used only to diagnose and group Helium crashes. Raw reports and derived metadata
+is kept for 30 days by default, after which they are deleted. Client IP addresses are used in memory
+for rate limiting and are not stored by the crash reporting service. Service logs contain report
+identifiers and technical build or processing information, but do not contain crash dumps or arbitrary
+crash annotations. We do not share raw crash reports with third parties under any circumstances.
+
 ### Website Privacy Policy
 
 Our Website may load a Plausible Analytics script hosted on a server owned and managed by the
