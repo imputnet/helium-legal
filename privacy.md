@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-Revision from July 8, 2026. <br>
+Revision from July 16, 2026. <br>
 [See full edit history on GitHub.](https://github.com/imputnet/helium-legal/commits/main/privacy.md)
 
 ### Definitions
