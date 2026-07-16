@@ -31,7 +31,7 @@ All browsing data managed by Helium is stored locally on your device. You have f
 and can delete or modify it at any time. Neither the Company nor the Maintainers have access to this
 data.
 
-Certain non-identifiable technical information (e.g., anonymized server logs) may be retained for
+Services do not collect, store, or share any personal information, unless explicitly authorized by the user (e.g. by submitting crash reports). Services may retain certain non-identifiable technical information (e.g., anonymized traffic logs) for
 no longer than 24 hours to detect and prevent abuse or to improve the Services. We do not share
 this information with third parties under any circumstances.
 
