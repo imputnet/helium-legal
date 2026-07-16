@@ -49,7 +49,7 @@ sensitive data.
 
 Crash reports are used only to diagnose and group Helium crashes. Raw reports and derived metadata
 are kept for up to 30 days, after which they are deleted. Client IP addresses are used in memory
-for rate limiting and are not stored by the crash reporting service. Service logs contain report
+for rate limiting and are not stored by the crash reporting service. Temporary service logs contain report
 identifiers and technical build or processing information, but do not contain crash dumps or arbitrary
 crash annotations. We do not share raw crash reports with third parties under any circumstances.
 
